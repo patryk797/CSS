@@ -1,0 +1,18 @@
+header{
+    color:white;
+    background-color: #808080;
+    width: 400px;
+    height: 666px;
+  
+}
+.kwadrat{
+    width: 140px;
+	height: 140px;
+	background-color: #fea500;
+	margin: 10px;
+    margin-left: 40px;
+      }
+
+h1{
+    margin-left: 25px;
+}

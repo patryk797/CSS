@@ -1,0 +1,33 @@
+body{
+    background-color: blue;
+}
+section > h1{
+    background-color: blueviolet;
+}
+section > h2{
+    background-color: chartreuse;
+}
+section > #pjeden{
+    background-color: crimson;
+}
+section > #pdwa{
+    background-color: darkgreen;
+}
+ol{
+    background-color: black;
+}
+#jeden{
+    color: darkorange;
+}
+#dwa{
+    color: darkorchid;
+}
+#trzy{
+   color: darkslateblue;
+}
+#cztery{
+    color: dimgrey;
+}
+#piec{
+    color: gold;
+}
